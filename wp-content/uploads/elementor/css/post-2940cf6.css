@@ -26,7 +26,13 @@
   font-size: 90px;
   font-weight: 400;
 }
+.partners_section{
+  padding: 100px 0;
+}
 
+.partners_section h3{
+  margin-bottom: 50px;
+}
 
 
 .elementor-294 .elementor-element.elementor-element-b16d939 > .elementor-widget-container{
@@ -593,6 +599,24 @@ body.rtl .elementor-294 .elementor-element.elementor-element-686a6ed8{
   .elementor-294 .elementor-element.elementor-element-41efd063{
       padding:84px 10px 50px 10px;
   }
+  .elementor-294 .elementor-element.elementor-element-c478277 .fn__maintitle{
+    color:#fff;
+    font-size: 55px;
+    font-weight: 400;
+  }
+  .elementor-294 .elementor-element.elementor-element-232d67c5 .fn__maintitle{
+    color:#fff;
+    font-size: 55px;
+    font-weight: 400;
+  }
+  .blog_section{
+    padding: 3px 5px;
+  }
+  .blog_section p{
+    font-size: 12px;
+  }
+
+  
 }
 @media(min-width:768px){
   .elementor-294 .elementor-element.elementor-element-a87d1a4{

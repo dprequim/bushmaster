@@ -345,6 +345,7 @@
 		left: 100%;
 		margin-left: 100px;
 	}
+
 }
 
 
@@ -384,12 +385,12 @@
 	display: -o-flex;
 	display: flex;
 	flex-wrap: wrap;
-	margin-left: -100px;
+	margin-left: -80px;
 }
 .fn_cs_counter_list li{
 	padding-left: 65px;
 	margin: 0;
-	width: 20%;
+	width: 33.3%;
 	margin-bottom: 40px;
 }
 .fn_cs_counter_list li:nth-of-type(4n) .divider{
@@ -1246,7 +1247,7 @@ a.metaportal_fn_videobutton,
 	margin-bottom: 40px;
 }
 .fn_cs_news .news_part p{
-	font-size: 24px;
+	font-size: 18px;
 	text-align: center;
 	color: white;
 	text-shadow: 1px 1px black;
