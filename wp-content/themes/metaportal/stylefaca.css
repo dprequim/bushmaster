@@ -1,9 +1,5 @@
 @charset "utf-8";
 /*
-Theme Name: MetaPortal
-Theme URI: https://themeforest.net/item/metaportal-nft-portfolio-wordpress-theme/39859785
-Description: MetaPortal – NFT Portfolio WordPress Theme
-Text Domain: metaportal
 Author: Frenify
 Author URI: http://themeforest.net/user/frenify
 Version: 1.0.9
@@ -15,8 +11,7 @@ Tags: custom-header, custom-background, threaded-comments, custom-menu, featured
 */
 /*
 
-	@Author: Frenify
-	@URL: http://themeforest.net/user/frenify
+	
 
 
 	This file contains the styling for the actual theme, this
@@ -294,7 +289,7 @@ body:before{
 	z-index: -1;
 }
 .fn__svg{
-	fill: currentcolor;
+	fill: currentColor;
 	width: 18px;
 	height: 18px;
 	opacity: 0;
@@ -1679,8 +1674,8 @@ a.full_link{
     animation: animatedgradient 4s ease alternate infinite;
 }
 .metaportal_fn_items .icon{
-	width: 50px;
-	height: 50px;
+	/* width: 50px;
+	height: 50px; */
 	display: -webkit-flex;
 	display: -moz-flex;
 	display: -ms-flex;
@@ -1689,7 +1684,6 @@ a.full_link{
 	-ms-align-items: center;
 	align-items: center;
 	justify-content: center;
-	background-color: #000;
 	border-radius: 100%;
 	position: relative;
 	margin-bottom: 9px;
